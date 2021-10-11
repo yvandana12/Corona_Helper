@@ -1,3 +1,4 @@
+This is a webapp which displays Covid-19 related latest information live using React JS.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
